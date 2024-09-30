@@ -90,8 +90,8 @@
     }
 
     .project-preview-button, .project-github-button {
-        padding: 8px 16px;
-        font-size: 12px;
+        padding: 6px 12px;
+        font-size: 8px;
     }
 
     .project-title {
